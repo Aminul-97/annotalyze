@@ -1,8 +1,15 @@
+import VideoBanner from "./components/banner";
+import ServicesSection from "./components/Services";
+import ServicesSec from "./components/Service-section";
+import ContactSection from "./components/ContactSection";
+
 export default function Home() {
   return (
     <>
-      {/* Your page content */}
-      <h1>This is the page</h1>
+      <VideoBanner />
+      <ServicesSection />
+      <ServicesSec />
+      <ContactSection />
     </>
   );
 }
