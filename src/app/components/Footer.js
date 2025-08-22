@@ -37,7 +37,7 @@ export default function Footer() {
           <h4>Company</h4>
           <ul>
             <li><Link href="/pricing">Pricing</Link></li>
-            <li><Link href="/about">About Us</Link></li>
+            <li><Link href="/about-us">About Us</Link></li>
             <li><Link href="/contact">Contact Us</Link></li>
             <li><Link href="/privacy-policy">Privacy Policy</Link></li>
           </ul>
@@ -54,7 +54,7 @@ export default function Footer() {
 
       {/* Bottom */}
       <div className="footer-bottom">
-        <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+        <p>&copy; 2025 Annotalyze. All rights reserved.</p>
       </div>
     </footer>
   );

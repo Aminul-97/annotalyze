@@ -23,7 +23,7 @@ nav {
 }
 
 .logo img {
-  height: 42px;
+  height: 65px;
 }
 
 .nav-links {
@@ -37,7 +37,7 @@ nav {
   position: relative;
   text-decoration: none;
   color: #333;
-  font-weight: 500;
+  font-weight: bold;
   padding: 5px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -96,7 +96,7 @@ nav {
   visibility: hidden;
   transform: translateY(10px);
   transition: all 0.3s ease;
-  min-width: 180px;
+  min-width: 250px;
   z-index: 20; /* NEW: ensure it stays above */
 }
 

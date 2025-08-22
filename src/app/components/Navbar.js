@@ -56,14 +56,16 @@ export default function Navbar() {
             </div>
 
             <div className="dropdown-menu">
-              <Link href="/services/web-development">Web Development</Link>
-              <Link href="/services/ui-ux">UI/UX Design</Link>
-              <Link href="/services/mobile-apps">Mobile Apps</Link>
-              <Link href="/services/seo">SEO Services</Link>
-              <Link href="/services/cloud">Cloud Consulting</Link>
+              <Link href="/services/image-annotation">Image Annotation</Link>
+              <Link href="/services/video-annotation">Video Annotation</Link>
+              <Link href="/services/text-annotation">Text Annotation</Link>
+              <Link href="/services/audio-annotation">Audio Annotation</Link>
+              <Link href="/services/3d-point-annotation">3d Point Annotation</Link>
+              <Link href="/services/document-annotation">Document Annotation</Link>
             </div>
           </div>
 
+          <Link href="/pricing">Pricing</Link>
           <Link href="/blog">Blog</Link>
           <Link href="/about-us">About Us</Link>
           <Link href="/contact">Contact Us</Link>

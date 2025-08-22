@@ -1,7 +1,7 @@
 import UnderConstruction from "../components/UnderConstruction";
 
 export const metadata = {
-  title: 'About Us | Annotalyze',
+  title: 'Contact | Annotalyze',
   description: '...',
 }
 
