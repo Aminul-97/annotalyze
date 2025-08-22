@@ -1,6 +1,8 @@
 "use client";
 import { useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
+
 import AOS from "aos";
 import "aos/dist/aos.css";
 import "./styles/Footer.css";
@@ -17,17 +19,17 @@ export default function Footer() {
         {/* Left: Logo + Social */}
         <div className="footer-left" data-aos="fade-right">
           <Link href="/">
-            <img src="/img/logo.png" alt="Company Logo" className="footer-logo" />
+            <Image src="/img/logo.png" alt="Company Logo" className="footer-logo" />
           </Link>
           <div className="social-icons">
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-              <img src="/img/x.svg" alt="Twitter" />
+              <Image src="/img/x.svg" alt="Twitter" />
             </a>
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-              <img src="/img/linkedin.svg" alt="LinkedIn" />
+              <Image src="/img/linkedin.svg" alt="LinkedIn" />
             </a>
             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-              <img src="/img/insta.svg" alt="Instagram" />
+              <Image src="/img/insta.svg" alt="Instagram" />
             </a>
           </div>
         </div>

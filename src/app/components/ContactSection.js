@@ -20,7 +20,7 @@ export default function ContactSection() {
       <h1 data-aos="zoom-in">Let’s Build Something Amazing Together 🚀</h1>
       <p data-aos="fade-up" data-aos-delay="200">
         Have a project in mind, or just want to connect with our team? Reach out
-        and let's make it happen.
+        and let’s make it happen.
       </p>
 
       {/* Link instead of <a> */}

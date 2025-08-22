@@ -2,6 +2,7 @@
 
 import React, { useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import "./styles/ServicesDet.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -89,7 +90,7 @@ export default function ServicesSec() {
         >
           <div className="service-img">
             <div className="image-wrapper">
-              <img src={service.img} alt={service.title} />
+              <Image src={service.img} alt={service.title} />
             </div>
           </div>
           <div className="service-text">

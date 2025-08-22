@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import "./styles/Navbar.css";
 
 export default function Navbar() {
@@ -25,7 +26,7 @@ export default function Navbar() {
         {/* Logo */}
         <div className="logo">
           <Link href="/">
-            <img src="/img/annotalyze.png" alt="Logo" />
+            <Image src="/img/annotalyze.png" alt="Logo" />
           </Link>
         </div>
 
