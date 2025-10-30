@@ -90,7 +90,7 @@ export default function ServicesSec() {
         >
           <div className="service-img">
             <div className="image-wrapper">
-              <Image src={service.img} alt={service.title} />
+              <img src={service.img} alt={service.title} />
             </div>
           </div>
           <div className="service-text">

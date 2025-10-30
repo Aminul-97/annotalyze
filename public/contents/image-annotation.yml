@@ -1,0 +1,58 @@
+title: "Image Annotation Services"
+subtitle: "We deliver high-quality, scalable image annotation solutions to fuel your AI and computer vision models."
+
+what_is_section:
+  title: "What is Image Annotation?"
+  description: >
+    Image annotation is the process of labeling images with metadata, shapes, or tags that AI and machine learning
+    models can use to identify and understand visual data. From bounding boxes to pixel-perfect segmentation,
+    annotated images are essential for training accurate computer vision applications like autonomous vehicles,
+    medical imaging, and retail analytics.
+  image: "img/image-annotation/image-annotation/image annotation.jpg"
+
+types_section:
+  title: "Types of Image Annotation"
+  subtitle: "We provide multiple annotation techniques depending on your project requirements."
+  features:
+    - title: "Bounding Boxes"
+      description: "Draw rectangular boxes around objects to train models for object detection and recognition."
+      image: "/img/image-annotation/Bounding Boxes.webp"
+    - title: "Polygon Annotation"
+      description: "Outline irregular objects with precise polygons for detailed segmentation tasks like agriculture and autonomous vehicles."
+      image: "/img/image-annotation/polygon Annotation.jpg"
+    - title: "Keypoints"
+      description: "Mark specific points on objects (like facial landmarks, joints, or body parts) for pose estimation or AR/VR applications."
+      image: "/img/image-annotation/keypoints.jpg"
+    - title: "Semantic Segmentation"
+      description: "Label every pixel in an image to classify regions for autonomous driving, medical AI, robotics, and more."
+      image: "/img/image-annotation/semantic segmentation.jpg"
+
+industries_section:
+  title: "Industries We Serve"
+  subtitle: "Our image annotation services empower diverse industries worldwide."
+  features:
+    - title: "Autonomous Vehicles"
+      description: "Training LiDAR and camera-based systems to recognize pedestrians, traffic signs, and other vehicles with high precision."
+      image: "/img/image-annotation/autonomous vehicles.png"
+    - title: "Healthcare"
+      description: "Annotating X-rays, MRIs, and CT scans to aid in disease detection and diagnosis with AI-powered solutions."
+      image: "/img/image-annotation/healthcare.webp"
+    - title: "Agriculture"
+      description: "Annotating crop images to monitor plant health, detect diseases, and support precision farming."
+      image: "/img/image-annotation/agriculture.png"
+
+why_choose_us:
+  title: "Why Choose Us?"
+  description: "We combine technology with human expertise to deliver the best annotation results."
+  points:
+    - "Scalable Workforce: Quickly scale up annotation teams to handle large datasets."
+    - "Quality Assurance: Multi-step review cycles to maintain accuracy."
+    - "Flexible Solutions: Multiple annotation formats & guidelines available."
+    - "Cost-Effective: Affordable pricing without sacrificing quality."
+  image: "/img/image-annotation/why chose us.jpg"
+
+cta:
+  title: "Need Expert Image Annotation?"
+  description: "Let’s help you scale your AI projects with human-powered, accurate, and efficient image annotation."
+  button_text: "Get Started"
+  button_link: "/contact.html"

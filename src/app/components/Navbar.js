@@ -26,7 +26,7 @@ export default function Navbar() {
         {/* Logo */}
         <div className="logo">
           <Link href="/">
-            <Image src="/img/annotalyze.png" alt="Logo" />
+            <img src="/img/annotalyze.png" alt="Logo"/>
           </Link>
         </div>
 
