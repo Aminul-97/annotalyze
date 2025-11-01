@@ -8,7 +8,7 @@ what_is_section:
     models can use to identify and understand visual data. From bounding boxes to pixel-perfect segmentation,
     annotated images are essential for training accurate computer vision applications like autonomous vehicles,
     medical imaging, and retail analytics.
-  image: "img/image-annotation/image-annotation/image annotation.jpg"
+  image: "/img/image-annotation/image annotation.jpg"
 
 types_section:
   title: "Types of Image Annotation"
@@ -16,7 +16,7 @@ types_section:
   features:
     - title: "Bounding Boxes"
       description: "Draw rectangular boxes around objects to train models for object detection and recognition."
-      image: "/img/image-annotation/Bounding Boxes.webp"
+      image: "/img/image-annotation/Bounding Boxes.jpg"
     - title: "Polygon Annotation"
       description: "Outline irregular objects with precise polygons for detailed segmentation tasks like agriculture and autonomous vehicles."
       image: "/img/image-annotation/polygon Annotation.jpg"
