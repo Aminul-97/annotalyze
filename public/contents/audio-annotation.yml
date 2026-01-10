@@ -1,0 +1,58 @@
+title: "Audio Annotation Services"
+subtitle: "We provide precise and scalable audio annotation solutions to enhance your AI and speech recognition models."
+
+what_is_section:
+  title: "What is Audio Annotation?"
+  description: 
+    Audio annotation is the process of labeling sound data with metadata, tags, or transcriptions that AI and
+    machine learning models can use to understand and process audio content. From speech recognition to
+    environmental sound classification, annotated audio datasets are essential for building accurate
+    voice assistants, call analytics, and audio-based AI applications.
+  image: "/img/audio-annotation/audio-annotation.jpg"
+
+types_section:
+  title: "Types of Audio Annotation"
+  subtitle: "We offer multiple audio annotation techniques depending on your project requirements."
+  features:
+    - title: "Transcription"
+      description: "Convert spoken words into written text to train speech-to-text models."
+      image: "/img/audio-annotation/transcription.jpg"
+    - title: "Speaker Diarization"
+      description: "Label and differentiate between multiple speakers in an audio clip for speaker recognition."
+      image: "/img/audio-annotation/speaker-diarization.jpg"
+    - title: "Sentiment Annotation"
+      description: "Tag emotions or sentiment in speech to train AI for emotion detection and customer analytics."
+      image: "/img/audio-annotation/sentiment-annotation.avif"
+    - title: "Sound Event Detection"
+      description: "Identify and label specific sounds such as alarms, footsteps, or environmental noises."
+      image: "/img/audio-annotation/sound-event-detection.png"
+
+industries_section:
+  title: "Industries We Serve"
+  subtitle: "Our audio annotation services empower diverse industries worldwide."
+  features:
+    - title: "Call Centers"
+      description: "Annotating call recordings to improve customer service AI, voice analytics, and quality monitoring."
+      image: "/img/audio-annotation/call-centers.jpg"
+    - title: "Healthcare"
+      description: "Labeling medical audio data like heartbeats or patient speech for AI-assisted diagnostics."
+      image: "/img/audio-annotation/healthcare.avif"
+    - title: "Media & Entertainment"
+      description: "Annotating audio for speech recognition, transcription, and content indexing."
+      image: "/img/audio-annotation/media-entertainment.png"
+
+why_choose_us:
+  title: "Why Choose Us?"
+  description: "We combine human expertise with advanced tools to deliver accurate and scalable audio annotation."
+  points:
+    - "Expert Annotators: Skilled teams with experience in audio and speech datasets."
+    - "High Accuracy: Multi-step quality checks to ensure precise labeling."
+    - "Scalable Operations: Capable of handling large volumes of audio efficiently."
+    - "Flexible Formats: Output compatible with major AI frameworks and audio processing tools."
+  image: "/img/audio-annotation/why-choose-us.jpg"
+
+cta:
+  title: "Need Expert Audio Annotation?"
+  description: "Enhance your AI projects with precise, human-powered, and efficient audio annotation services."
+  button_text: "Get Started"
+  button_link: "/contact.html"

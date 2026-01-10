@@ -1,0 +1,58 @@
+title: "3D Point Annotation Services"
+subtitle: "We provide accurate and scalable 3D point annotation solutions to power advanced AI and spatial understanding models."
+
+what_is_section:
+  title: "What is 3D Point Annotation?"
+  description: 
+    3D point annotation is the process of labeling points in three-dimensional space captured from sensors such as LiDAR,
+    depth cameras, or stereo vision systems. These annotations help AI models understand object position, distance,
+    shape, and movement in real-world environments, enabling applications like autonomous driving, robotics,
+    and smart city planning.
+  image: "/img/3d-point-annotation/3d point annotation.png"
+
+types_section:
+  title: "Types of 3D Point Annotation"
+  subtitle: "We offer multiple 3D annotation techniques tailored to different spatial data requirements."
+  features:
+    - title: "3D Bounding Boxes"
+      description: "Create cuboid annotations around objects in 3D space to train models for object detection and tracking."
+      image: "/img/3d-point-annotation/3d bounding boxes.webp"
+    - title: "Point-wise Labeling"
+      description: "Assign semantic labels to individual points in a point cloud for detailed scene understanding."
+      image: "/img/3d-point-annotation/point wise labeling.webp"
+    - title: "Semantic Segmentation"
+      description: "Classify each point in a point cloud into meaningful categories such as road, vehicle, or pedestrian."
+      image: "/img/3d-point-annotation/semantic segmentation.jpg"
+    - title: "Instance Segmentation"
+      description: "Differentiate between individual object instances within the same class in complex 3D environments."
+      image: "/img/3d-point-annotation/instance segmentation.webp"
+
+industries_section:
+  title: "Industries We Serve"
+  subtitle: "Our 3D point annotation services support a wide range of industries and use cases."
+  features:
+    - title: "Autonomous Vehicles"
+      description: "Annotating LiDAR point clouds to detect vehicles, cyclists, pedestrians, and road infrastructure."
+      image: "/img/3d-point-annotation/autonomous vehicles.webp"
+    - title: "Robotics"
+      description: "Labeling 3D sensor data to help robots navigate, grasp objects, and interact safely with environments."
+      image: "/img/3d-point-annotation/robotics.jpeg"
+    - title: "Smart Cities"
+      description: "Annotating urban 3D data for traffic analysis, infrastructure monitoring, and city planning."
+      image: "/img/3d-point-annotation/smart cities.jpg"
+
+why_choose_us:
+  title: "Why Choose Us?"
+  description: "We deliver reliable and precise 3D annotations by combining advanced tools with skilled annotators."
+  points:
+    - "Expert Annotators: Skilled teams experienced with complex 3D and LiDAR datasets."
+    - "High Accuracy: Strict quality checks ensure precise spatial labeling."
+    - "Scalable Operations: Handle small to enterprise-scale 3D datasets efficiently."
+    - "Flexible Output Formats: Compatible with popular 3D ML frameworks and pipelines."
+  image: "/img/3d-point-annotation/why choose us.webp"
+
+cta:
+  title: "Looking for 3D Point Annotation?"
+  description: "Accelerate your AI and perception systems with accurate, human-powered 3D point annotation services."
+  button_text: "Get Started"
+  button_link: "/contact.html"

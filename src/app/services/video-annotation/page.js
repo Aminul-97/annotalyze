@@ -1,4 +1,4 @@
-import UnderConstruction from "@/app/components/UnderConstruction";
+import VideoAnnotationPage from "./video-annotation";
 
 export const metadata = {
   title: 'Video Annotation | Annotalyze',
@@ -8,7 +8,7 @@ export const metadata = {
 export default function Page() {
   return (
     <>
-      <UnderConstruction />
+      <VideoAnnotationPage />
     </>
   );
 }

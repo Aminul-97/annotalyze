@@ -3,7 +3,7 @@ subtitle: "We deliver high-quality, scalable image annotation solutions to fuel 
 
 what_is_section:
   title: "What is Image Annotation?"
-  description: >
+  description: 
     Image annotation is the process of labeling images with metadata, shapes, or tags that AI and machine learning
     models can use to identify and understand visual data. From bounding boxes to pixel-perfect segmentation,
     annotated images are essential for training accurate computer vision applications like autonomous vehicles,

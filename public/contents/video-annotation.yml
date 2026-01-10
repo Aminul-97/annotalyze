@@ -1,0 +1,58 @@
+title: "Video Annotation Services"
+subtitle: "We deliver high-quality, scalable video annotation solutions to train advanced AI and computer vision models."
+
+what_is_section:
+  title: "What is Video Annotation?"
+  description: |
+    Video annotation is the process of labeling objects, actions, and events across video frames so AI and machine
+    learning models can understand motion, behavior, and temporal relationships. By annotating videos frame by frame
+    or through object tracking, organizations can build accurate models for applications such as autonomous driving,
+    surveillance, sports analytics, and smart cities.
+  image: "/img/video-annotation/video-annotation.gif"
+
+types_section:
+  title: "Types of Video Annotation"
+  subtitle: "We provide multiple video annotation techniques tailored to your project requirements."
+  features:
+    - title: "Bounding Box Tracking"
+      description: "Track objects across video frames using bounding boxes to train models for object detection and motion analysis."
+      image: "/img/video-annotation/bounding-box-tracking.jpg"
+    - title: "Polygon Tracking"
+      description: "Precisely outline and track irregular objects frame by frame for high-accuracy segmentation in dynamic scenes."
+      image: "/img/video-annotation/polygon-tracking.png"
+    - title: "Keypoint Annotation"
+      description: "Annotate and track key points such as joints, landmarks, or body parts for action recognition and pose estimation."
+      image: "/img/video-annotation/keypoint-annotation.jpg"
+    - title: "Event & Action Annotation"
+      description: "Label actions, behaviors, and events within videos to train AI models for activity recognition and behavior analysis."
+      image: "/img/video-annotation/event-action-annotation.jpg"
+
+industries_section:
+  title: "Industries We Serve"
+  subtitle: "Our video annotation services support a wide range of industries worldwide."
+  features:
+    - title: "Autonomous Vehicles"
+      description: "Annotating driving videos to track vehicles, pedestrians, lanes, and traffic events for self-driving systems."
+      image: "/img/video-annotation/autonomous-vehicles.png"
+    - title: "Security & Surveillance"
+      description: "Labeling video footage to detect suspicious activities, intrusions, and anomalies in real time."
+      image: "/img/video-annotation/security-surveillance.png"
+    - title: "Sports & Fitness"
+      description: "Annotating athlete movements and gameplay videos to enable performance analysis and training insights."
+      image: "/img/video-annotation/sports-fitness.jpg"
+
+why_choose_us:
+  title: "Why Choose Us?"
+  description: "We combine advanced tools with skilled annotators to deliver accurate and consistent video annotation at scale."
+  points:
+    - "Temporal Accuracy: Precise frame-by-frame and object tracking across entire videos."
+    - "Scalable Workforce: Easily scale annotation teams for large and long-duration video datasets."
+    - "Quality Assurance: Multi-level review processes to ensure consistent and reliable annotations."
+    - "Flexible Output Formats: Support for multiple video annotation standards and export formats."
+  image: "/img/image-annotation/why chose us.jpg"
+
+cta:
+  title: "Need Expert Video Annotation?"
+  description: "Accelerate your AI initiatives with accurate, scalable, and human-powered video annotation services."
+  button_text: "Get Started"
+  button_link: "/contact.html"

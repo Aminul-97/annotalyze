@@ -1,4 +1,4 @@
-import UnderConstruction from "@/app/components/UnderConstruction";
+import DAnnotationPage from "./3d-annotation"
 
 export const metadata = {
   title: '3d Point Annotation | Annotalyze',
@@ -8,7 +8,7 @@ export const metadata = {
 export default function Page() {
   return (
     <>
-      <UnderConstruction />
+      <DAnnotationPage />
     </>
   );
 }

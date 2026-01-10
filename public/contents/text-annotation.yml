@@ -1,0 +1,58 @@
+title: "Text Annotation Services"
+subtitle: "We provide precise and scalable text annotation solutions to enhance your AI and NLP models."
+
+what_is_section:
+  title: "What is Text Annotation?"
+  description: 
+    Text annotation is the process of labeling and tagging textual data with relevant information,
+    metadata, or categories that AI and machine learning models can use to understand and analyze
+    language. Annotated text is essential for training NLP models for sentiment analysis,
+    chatbots, machine translation, information extraction, and other AI-driven language applications.
+  image: "/img/text-annotation/text-annotation.jpg"
+
+types_section:
+  title: "Types of Text Annotation"
+  subtitle: "We offer multiple text annotation techniques tailored to your project needs."
+  features:
+    - title: "Named Entity Recognition (NER)"
+      description: "Identify and label entities such as people, organizations, locations, and dates in text."
+      image: "/img/text-annotation/named-entity-recognition.png"
+    - title: "Sentiment Annotation"
+      description: "Tag text to indicate sentiment or emotion for AI-based opinion mining and analysis."
+      image: "/img/text-annotation/sentiment-annotation.webp"
+    - title: "Text Classification"
+      description: "Categorize text into predefined classes for applications like spam detection, topic labeling, or intent recognition."
+      image: "/img/text-annotation/text-classification.jpg"
+    - title: "Part-of-Speech (POS) Tagging"
+      description: "Annotate words with their grammatical role (noun, verb, adjective, etc.) to support NLP training."
+      image: "/img/text-annotation/pos-tagging.webp"
+
+industries_section:
+  title: "Industries We Serve"
+  subtitle: "Our text annotation services support a wide range of industries and use cases."
+  features:
+    - title: "E-commerce"
+      description: "Annotating product descriptions and reviews for recommendation systems, search, and analytics."
+      image: "/img/text-annotation/e-commerce.webp"
+    - title: "Healthcare"
+      description: "Labeling clinical notes, medical transcripts, and patient feedback for AI-assisted healthcare solutions."
+      image: "/img/text-annotation/healthcare.webp"
+    - title: "Finance"
+      description: "Annotating financial reports, news articles, and communications to train NLP models for insights and automation."
+      image: "/img/text-annotation/finance.webp"
+
+why_choose_us:
+  title: "Why Choose Us?"
+  description: "We deliver accurate and reliable text annotation combining human expertise and advanced tools."
+  points:
+    - "Expert Annotators: Skilled in handling diverse textual datasets."
+    - "High Accuracy: Multi-step quality checks ensure precise annotations."
+    - "Scalable Operations: Handle small to large datasets efficiently."
+    - "Flexible Output Formats: Compatible with popular NLP and AI frameworks."
+  image: "/img/text-annotation/why-choose-us.jpg"
+
+cta:
+  title: "Need Expert Text Annotation?"
+  description: "Boost your NLP and AI projects with precise, human-powered text annotation services."
+  button_text: "Get Started"
+  button_link: "/contact.html"

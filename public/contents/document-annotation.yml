@@ -1,0 +1,59 @@
+title: "Document Annotation Services"
+subtitle: "We provide accurate and scalable document annotation solutions to power your AI and NLP models."
+
+what_is_section:
+  title: "What is Document Annotation?"
+  description: 
+    Document annotation is the process of labeling text and document data with tags, metadata, or
+    entity information that AI and machine learning models can use to understand, classify,
+    and extract insights from textual content. Annotated documents are essential for training
+    natural language processing (NLP) models, sentiment analysis, information retrieval,
+    and automated document processing applications.
+  image: "/img/document-annotation/document-annotation.png"
+
+types_section:
+  title: "Types of Document Annotation"
+  subtitle: "We provide multiple document annotation techniques depending on your project requirements."
+  features:
+    - title: "Named Entity Recognition (NER)"
+      description: "Identify and label entities such as names, dates, locations, and organizations in text."
+      image: "/img/document-annotation/named-entity-recognition.png"
+    - title: "Sentiment Annotation"
+      description: "Label text to indicate sentiment or emotion for AI-driven opinion analysis."
+      image: "/img/document-annotation/sentiment-annotation.webp"
+    - title: "Part-of-Speech Tagging"
+      description: "Annotate grammatical components like nouns, verbs, and adjectives to train NLP models."
+      image: "/img/document-annotation/pos-tagging.webp"
+    - title: "Text Classification"
+      description: "Categorize documents or sections of text into predefined classes for AI automation."
+      image: "/img/document-annotation/text-classification.jpg"
+
+industries_section:
+  title: "Industries We Serve"
+  subtitle: "Our document annotation services empower various industries globally."
+  features:
+    - title: "Finance"
+      description: "Annotating financial reports, invoices, and statements for AI-based analysis and automation."
+      image: "/img/document-annotation/finance.webp"
+    - title: "Healthcare"
+      description: "Labeling medical records, clinical notes, and prescriptions to train AI for healthcare applications."
+      image: "/img/document-annotation/healthcare.webp"
+    - title: "Legal"
+      description: "Annotating contracts, agreements, and legal documents for AI-driven document review and compliance."
+      image: "/img/document-annotation/legal.jpeg"
+
+why_choose_us:
+  title: "Why Choose Us?"
+  description: "We combine AI expertise with human accuracy to deliver precise document annotation."
+  points:
+    - "Expert Annotators: Skilled in handling complex textual and document data."
+    - "High Accuracy: Multi-layer quality control ensures precise labeling."
+    - "Scalable Solutions: Efficiently handle large volumes of documents."
+    - "Flexible Output Formats: Compatible with major NLP and AI frameworks."
+  image: "/img/document-annotation/why-choose-us.jpg"
+
+cta:
+  title: "Looking for Document Annotation?"
+  description: "Accelerate your AI and NLP projects with accurate, human-powered document annotation services."
+  button_text: "Get Started"
+  button_link: "/contact.html"

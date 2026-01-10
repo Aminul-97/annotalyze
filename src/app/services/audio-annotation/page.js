@@ -1,4 +1,4 @@
-import UnderConstruction from "@/app/components/UnderConstruction";
+import AudioAnnotationPage from "./audio-annotation";
 
 export const metadata = {
   title: 'Audio Annotation | Annotalyze',
@@ -8,7 +8,7 @@ export const metadata = {
 export default function Page() {
   return (
     <>
-      <UnderConstruction />
+      <AudioAnnotationPage />
     </>
   );
 }

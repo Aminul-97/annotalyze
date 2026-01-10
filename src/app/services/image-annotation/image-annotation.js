@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import yaml from "js-yaml";
 import "aos/dist/aos.css";
-import "../image_annotation.css";
+import "../services.css";
 
 export default function ImageAnnotationPage() {
   const [data, setData] = useState(null);
@@ -13,11 +13,6 @@ export default function ImageAnnotationPage() {
     fetch("/contents/image-annotation.yml")
       .then((res) => res.text())
       .then((text) => setData(yaml.load(text)));
-
-    // Initialize AOS animations
-    import("aos").then((AOS) =>
-      AOS.init({ duration: 1200, easing: "ease-in-out", mirror: true })
-    );
   }, []);
 
   if (!data) return <p style={{ padding: "2rem", textAlign: "center" }}>Loading...</p>;
