@@ -1,4 +1,5 @@
 import UnderConstruction from "../components/UnderConstruction";
+import ContactPage from "../components/ContactForm";
 
 export const metadata = {
   title: 'Contact | Annotalyze',
@@ -8,7 +9,7 @@ export const metadata = {
 export default function Page() {
   return (
     <>
-      <UnderConstruction />
+      <ContactPage />
     </>
   );
 }
