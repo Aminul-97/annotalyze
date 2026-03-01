@@ -23,14 +23,15 @@ export async function POST(req) {
     });
 
     await transporter.sendMail({
-      from: `"Website Contact" <${process.env.SMTP_USER}>`,
-      replyTo: email,
-      to: process.env.SMTP_USER,
-      subject: `New message from ${name}`,
-      text: `
-        Name: ${name}
-        Email: ${email}
-        Message: ${message}
+      from: `"Anotalyize Website" <${process.env.SMTP_USER}>`,
+      to: process.env.EMAIL_TO,
+      replyTo: email, // so you can reply directly to sender
+      subject: `New Contact Message from ${name}`,
+      html: `
+        <h2>New Contact Submission</h2>
+        <p><strong>Name:</strong> ${name}</p>
+        <p><strong>Email:</strong> ${email}</p>
+        <p><strong>Message:</strong><br/> ${message}</p>
       `,
     });
 
